@@ -66,7 +66,7 @@ http://127.0.0.1:5000
 
 This app is deployed on **Vercel**.
 
-Live URL: `[[to-do-iota-silk.vercel.app](https://to-do-iota-silk.vercel.app/)](https://to-do-iota-silk.vercel.app/)`
+Live URL:  https://to-do-iota-silk.vercel.app/
 
 ---
 
